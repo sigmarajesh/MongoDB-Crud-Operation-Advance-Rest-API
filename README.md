@@ -1,8 +1,8 @@
-# MongoDB-Crud-Operations-Advanced
+### MongoDB Crud Operations Advanced Rest API
 
-# REST API - JSON
+### REST API - JSON
 
-## Table of Contents
+### Table of Contents
 1.  [Demo](#demo)
 2.  [Features](#features)
 3.  [Technologies Used](#technologies-used)
@@ -10,28 +10,25 @@
 5.  [Getting started](#getting-started)
 6.  [Project Structure](#project-structure)
 7.  [Author](#author)
-## Demo
-You can see a live demo of the portfolio website at [ ]
-## Features
+8.  
+### Features
 -   **GET**: List all user.
 -   **POST**: Create new user.
 -   **PATCH**: Edit the user with ID 1.
 -   **DELETE**: Delete the user with ID 1.
-## Technologies Used
+### Technologies Used
 -   [MongoDB](https://nextjs.org)
 -   [Node.js](https://reactjs.dev)
 -   [express](https://tailwindcss.com)
-## Packages Used
+### Packages Used
 -   [node.js](https://www.npmjs.com/package/node.js)
 -   [mongoosh](https://www.npmjs.com/package/mongoosh)
 -   [express](https://www.npmjs.com/package/express)
 -   [nodemon](https://www.npmjs.com/package/nodemon)
-## Getting started
+### Getting started
 1. Clone this repository to your local machine:
-```bash
-git clone https://github.com/satyamshorrf/3D-Portfolio-.git
-```
-2. Install the project dependencies:
+2. 
+3. Install the project dependencies:
 ```bash
 npm install
 ```
@@ -40,7 +37,7 @@ npm install
 nodemon index.js
 ```
 Open your web browser and visit http://localhost:8080 to see the website in action during development.
-## Project Structure
+### Project Structure
 The project structure is organized as follows:
 -   `controllers`: 
 -   `middlewares`: 
@@ -50,5 +47,5 @@ The project structure is organized as follows:
 -   `connection.js`
 -   `index.js`
 -   `log.txt`
-## Author
--   [@satyamshorrf](https://github.com/satyamshorrf)
+### Author
+-   [@ Rajesh Kumar (https://github.com/sigmarajesh)]
