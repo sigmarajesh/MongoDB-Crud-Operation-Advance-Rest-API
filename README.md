@@ -36,7 +36,7 @@ npm install
 ```bash
 nodemon index.js
 ```
-Open your web browser and visit http://localhost:8080 to see the website in action during development.
+Open your web browser and visit http://localhost:3000 to see the website in action during development.
 ### Project Structure
 The project structure is organized as follows:
 -   `controllers`: 
