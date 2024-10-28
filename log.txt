@@ -1,0 +1,23 @@
+1729986337406:::1 GET: /api/user
+
+1729986340597:::1 GET: /api/users
+
+1729986340704:::1 GET: /favicon.ico
+
+1729986597933:::1 GET: /api/users
+
+1729986638337:::1 POST: /api/users
+
+1729986836709:::1 GET: /api/users
+
+1729986843027:::1 POST: /api/users
+
+1729986847667:::1 GET: /api/users
+
+1729986908056:::1 GET: /api/users/671d811be3e64888779b8e7f
+
+1729986929629:::1 PATCH: /api/users/671d811be3e64888779b8e7f
+
+1729986964424:::1 DELETE: /api/users/671d811be3e64888779b8e7f
+
+1729986984893:::1 GET: /api/users
